@@ -1,4 +1,4 @@
-AvicaRDP: AvicaRDP
+name: AvicaRDP
 on:
   workflow_dispatch:
   schedule:
